@@ -1,8 +1,8 @@
 # WorkingWithFiles
-This is an app developed in C#. It has work properly and will do some basic operations over textfiles and export XML file
+This is an app developed in C#. It has to work properly and it will do some basic operations over textfiles and export XML file
 
 
-Implement an application that lists all words of text files as well as the number of their appearance in
+The application will lists all words of text files as well as the number of their appearance in
 each file. The text files shall be read from a directory that has to be provided as application property.
 The processing result shall be reported as JSON document that has to validate against the provided JSON
 Schema.
